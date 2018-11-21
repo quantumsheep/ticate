@@ -1,2 +1,2 @@
-# ticate
+# Ticate
 Crystal tickets manager

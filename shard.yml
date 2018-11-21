@@ -1,0 +1,19 @@
+name: ticate
+version: 0.1.0
+
+authors:
+  - quantumsheep <nathanael.dmc@outlook.fr>
+
+targets:
+  ticate:
+    main: src/ticate.cr
+
+crystal: 0.27.0
+
+license: MIT
+
+dependencies:
+  crustache:
+    github: MakeNowJust/crustache
+  sqlite3:
+    github: crystal-lang/crystal-sqlite3
