@@ -1,0 +1,2 @@
+# ticate
+Crystal tickets manager
